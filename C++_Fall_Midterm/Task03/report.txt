@@ -1,0 +1,5 @@
+In this question, in stead of give the vector parameter directly, I give the vector reference to the method 2. With the reference, we can avoid copy.
+And call by reference permits the manipulation of objects by reference. So it will help us reduce the memory and improve the speed.
+
+
+
