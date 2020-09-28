@@ -1,0 +1,6 @@
+Dist Type      	Mean           	S.T.D          	Median         
+Uniform        	0.500966       	0.290359       	0.501455       
+Normal         	1.00837        	1.50009        	1.01124        
+Poisson        	3.9595         	2.00949        	4              
+Binomial       	1.9951         	0.998637       	2              
+Gamma          	1.98416        	2.0003         	1.32536

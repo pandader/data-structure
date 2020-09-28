@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -fexceptions -pedantic-errors -Wno-tautological-compare -g -DDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Question_2.dir/src/main.cpp.o CMakeFiles/Question_2.dir/src/utilities.cpp.o  -o Debug/Question_2 

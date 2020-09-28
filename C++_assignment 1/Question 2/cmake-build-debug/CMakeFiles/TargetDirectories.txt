@@ -1,0 +1,3 @@
+/Users/lunli/Desktop/LunLi_Assignment 1/Question 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lunli/Desktop/LunLi_Assignment 1/Question 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lunli/Desktop/LunLi_Assignment 1/Question 2/cmake-build-debug/CMakeFiles/Question_2.dir
